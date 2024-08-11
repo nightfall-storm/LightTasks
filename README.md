@@ -1,16 +1,7 @@
-# todo_app
+LightTasks - To-Do List App
+LightTasks is a lightweight, easy-to-use to-do list application built using Flutter. It features local storage powered by Hive, allowing users to manage their tasks offline efficiently. The app is designed with a clean and minimalist UI, ensuring a seamless user experience.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+Hive Integration: Local storage using Hive for fast and efficient data management.
+Simple UI: A focus on a clean and intuitive user interface.
+Cross-Platform: Built with Flutter, making it available on multiple platforms, including Android, iOS, and more.
